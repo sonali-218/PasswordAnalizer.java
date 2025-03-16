@@ -5,11 +5,16 @@ El programa evalúa la contraseña basándose en varios criterios y proporciona 
 
 ## Características
 
-- ## Longitud: La contraseña debe tener al menos 8 caracteres.
-- ## Letras mayúsculas: La contraseña debe contener al menos una letra mayúscula.
-- ## Letras minúsculas: La contraseña debe contener al menos una letra minúscula.
-- ## Números: La contraseña debe contener al menos un número.
-- ## Caracteres especiales: La contraseña debe contener al menos un carácter especial (por ejemplo, `!@#$%^&*()`).
+- ## Longitud:
+- La contraseña debe tener al menos 8 caracteres.
+- ## Letras mayúsculas:
+- La contraseña debe contener al menos una letra mayúscula.
+- ## Letras minúsculas:
+- La contraseña debe contener al menos una letra minúscula.
+- ## Números:
+- La contraseña debe contener al menos un número.
+- ## Caracteres especiales:
+- La contraseña debe contener al menos un carácter especial (por ejemplo, `!@#$%^&*()`).
 
 ## Cómo usar
 
@@ -20,5 +25,6 @@ El programa evalúa la contraseña basándose en varios criterios y proporciona 
    cd PasswordAnalizer.java
 3. ## Compila y ejecuta el programa:
    javac PasswordAnalizer.java
+
    java PasswordAnalizer
-4. ## Ingresa una contraseña
+5. ## Ingresa una contraseña
